@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "959024398937",
+    "project_id": "fir-operations-3b2a2",
+    "storage_bucket": "fir-operations-3b2a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959024398937:android:67195748639ee5387ca748",
+        "android_client_info": {
+          "package_name": "com.firebase.operations"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5gX-ACiVwEFoBspVTsaoXzP6U36UlwOk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
